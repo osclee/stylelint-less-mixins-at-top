@@ -1,4 +1,4 @@
-# stylelint-mixins-at-top
+# stylelint-less-mixins-at-top
 
 This is just a simple repo to hopefully show others (and myself in the future), how to configure stylelint such that you can enforce less mixin calls being at the top of a style block.
 
