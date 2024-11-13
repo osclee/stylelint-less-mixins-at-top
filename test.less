@@ -1,0 +1,20 @@
+:root {
+    --main-color: #3498db;
+    --main-shadow-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .box-shadow(@x, @y, @blur) {
+    box-shadow: @x @y @blur var(--main-shadow-color);
+  }
+  
+  
+  .card { 
+    .box-shadow(0px, 4px, 10px);
+    
+    width: 25px;
+    height: 30px;
+    padding: 20px;  
+    background-color: #fff;
+    color: var(--main-color);
+    
+  }

@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "stylelint": "^16.10.0",
+    "stylelint-config-recommended-vue": "^1.5.0",
+    "stylelint-config-standard": "^36.0.1",
+    "stylelint-less": "^3.0.1",
+    "stylelint-order": "^6.0.4"
+  },
+  "devDependencies": {
+    "postcss-less": "^6.0.0"
+  }
+}
